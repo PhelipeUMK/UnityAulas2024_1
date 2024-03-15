@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 bláblá
 Batatinha quando nasce...Ah!
-Nasce simplesmente.Nasce simplesmente.
+Nasce simplesmente.
 =======
+bláblá
 >>>>>>> parent of 27693d8 (Aprimoramento do Texto)
