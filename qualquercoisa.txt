@@ -5,3 +5,6 @@ Nasce simplesmente.
 =======
 bláblá
 >>>>>>> parent of 27693d8 (Aprimoramento do Texto)
+=======
+bláblá
+>>>>>>> parent of 27693d8 (Aprimoramento do Texto)
