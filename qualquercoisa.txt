@@ -1,3 +1,5 @@
 bláblá
 Batatinha quando nasce...Ah!
-Nasce simplesmente.
+Nasce simplesmente.Nasce simplesmente.
+=======
+>>>>>>> parent of 27693d8 (Aprimoramento do Texto)
